@@ -26,7 +26,8 @@ const DEFAULT_SETTINGS: TextRecognizerPluginSettings = {
  * @brief Основной класс плагина для распознавания текста.
  */
 
-// Description from master
+
+// Description from branch & master
 export default class TextRecognizerPlugin extends Plugin {
 	/**
 	 * @brief Объект настроек плагина.
