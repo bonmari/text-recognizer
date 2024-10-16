@@ -1,0 +1,7 @@
+INPUT         = .ts .tsx .js .jsx
+OUTPUT_DIRECTORY    = ./docs
+RECURSIVE       = YES
+GENERATE_HTML     = YES
+GENERATE_LATEX     = YES
+GENERATE_RTF      = YES
+FILE_PATTERNS     = .ts .tsx .js .jsx
